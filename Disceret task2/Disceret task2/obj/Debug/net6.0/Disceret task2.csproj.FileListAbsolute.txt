@@ -1,0 +1,15 @@
+C:\Users\Mahmoud Rashed\Desktop\Disceret task2\Disceret task2\bin\Debug\net6.0\Disceret task2.exe
+C:\Users\Mahmoud Rashed\Desktop\Disceret task2\Disceret task2\bin\Debug\net6.0\Disceret task2.deps.json
+C:\Users\Mahmoud Rashed\Desktop\Disceret task2\Disceret task2\bin\Debug\net6.0\Disceret task2.runtimeconfig.json
+C:\Users\Mahmoud Rashed\Desktop\Disceret task2\Disceret task2\bin\Debug\net6.0\Disceret task2.dll
+C:\Users\Mahmoud Rashed\Desktop\Disceret task2\Disceret task2\bin\Debug\net6.0\Disceret task2.pdb
+C:\Users\Mahmoud Rashed\Desktop\Disceret task2\Disceret task2\obj\Debug\net6.0\Disceret task2.csproj.AssemblyReference.cache
+C:\Users\Mahmoud Rashed\Desktop\Disceret task2\Disceret task2\obj\Debug\net6.0\Disceret task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud Rashed\Desktop\Disceret task2\Disceret task2\obj\Debug\net6.0\Disceret task2.AssemblyInfoInputs.cache
+C:\Users\Mahmoud Rashed\Desktop\Disceret task2\Disceret task2\obj\Debug\net6.0\Disceret task2.AssemblyInfo.cs
+C:\Users\Mahmoud Rashed\Desktop\Disceret task2\Disceret task2\obj\Debug\net6.0\Disceret task2.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Rashed\Desktop\Disceret task2\Disceret task2\obj\Debug\net6.0\Disceret task2.dll
+C:\Users\Mahmoud Rashed\Desktop\Disceret task2\Disceret task2\obj\Debug\net6.0\refint\Disceret task2.dll
+C:\Users\Mahmoud Rashed\Desktop\Disceret task2\Disceret task2\obj\Debug\net6.0\Disceret task2.pdb
+C:\Users\Mahmoud Rashed\Desktop\Disceret task2\Disceret task2\obj\Debug\net6.0\Disceret task2.genruntimeconfig.cache
+C:\Users\Mahmoud Rashed\Desktop\Disceret task2\Disceret task2\obj\Debug\net6.0\ref\Disceret task2.dll

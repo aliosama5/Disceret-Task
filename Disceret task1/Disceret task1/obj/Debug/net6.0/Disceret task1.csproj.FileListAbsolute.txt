@@ -1,0 +1,15 @@
+C:\Users\Mahmoud Rashed\Desktop\Disceret task1\Disceret task1\obj\Debug\net6.0\Disceret task1.csproj.AssemblyReference.cache
+C:\Users\Mahmoud Rashed\Desktop\Disceret task1\Disceret task1\obj\Debug\net6.0\Disceret task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud Rashed\Desktop\Disceret task1\Disceret task1\obj\Debug\net6.0\Disceret task1.AssemblyInfoInputs.cache
+C:\Users\Mahmoud Rashed\Desktop\Disceret task1\Disceret task1\obj\Debug\net6.0\Disceret task1.AssemblyInfo.cs
+C:\Users\Mahmoud Rashed\Desktop\Disceret task1\Disceret task1\obj\Debug\net6.0\Disceret task1.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Rashed\Desktop\Disceret task1\Disceret task1\bin\Debug\net6.0\Disceret task1.exe
+C:\Users\Mahmoud Rashed\Desktop\Disceret task1\Disceret task1\bin\Debug\net6.0\Disceret task1.deps.json
+C:\Users\Mahmoud Rashed\Desktop\Disceret task1\Disceret task1\bin\Debug\net6.0\Disceret task1.runtimeconfig.json
+C:\Users\Mahmoud Rashed\Desktop\Disceret task1\Disceret task1\bin\Debug\net6.0\Disceret task1.dll
+C:\Users\Mahmoud Rashed\Desktop\Disceret task1\Disceret task1\bin\Debug\net6.0\Disceret task1.pdb
+C:\Users\Mahmoud Rashed\Desktop\Disceret task1\Disceret task1\obj\Debug\net6.0\Disceret task1.dll
+C:\Users\Mahmoud Rashed\Desktop\Disceret task1\Disceret task1\obj\Debug\net6.0\refint\Disceret task1.dll
+C:\Users\Mahmoud Rashed\Desktop\Disceret task1\Disceret task1\obj\Debug\net6.0\Disceret task1.pdb
+C:\Users\Mahmoud Rashed\Desktop\Disceret task1\Disceret task1\obj\Debug\net6.0\Disceret task1.genruntimeconfig.cache
+C:\Users\Mahmoud Rashed\Desktop\Disceret task1\Disceret task1\obj\Debug\net6.0\ref\Disceret task1.dll
